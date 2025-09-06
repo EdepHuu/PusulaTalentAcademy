@@ -1,2 +1,2 @@
 # PusulaTalentAcademy
-EdepHuu/PusulaTalentAcademy
+Full Stack Case Study
